@@ -26,6 +26,8 @@ android {
 }
 
 dependencies {
+
+    compile 'com.yandex.android:speechkit:2.5.0'
     //语音识别
 //    api project(':yandexSpeechKit')
 
